@@ -1,0 +1,12 @@
+
+CP <nazwa_procesu> <nazwa_pliku>	utworzenie procesu
+CSP <n_pr_r> <n_pr_dz> <n_pliku>	utworzenie procesu-potomka dla wskazanego procesu
+DP <nazwa_procesu>			usuwanie procesu
+SP <nazwa_procesu>			wyswietla parametry procesu
+DAP					wyswietla wszystkie procesy
+DWP					wyswietla oczekujace procesy
+DRP					wyswietla gotowe procesy
+SPS <nazwa_procesu> <stan>		ustawia wskazany stan danemu procesowi
+EXIT					zamkniecie systemu
+HELP					wyswietlenie dostepnych komend
+
